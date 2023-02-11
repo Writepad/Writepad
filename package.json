@@ -1,0 +1,16 @@
+{
+  "name": "writepad",
+  "version": "1.0",
+  "description": "It is simple text editor, again, and again!",
+  "main": "main.js",
+  "scripts": {
+    "writepad": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Cyril John Magayaga",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^23.0.0"
+  }
+}
