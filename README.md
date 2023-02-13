@@ -2,6 +2,8 @@
 
 **Writepad** is simple text editor created and developed by [Magayaga](https://github.com/Magayaga) with the [Electron Framework](https://github.com/electron/electron) for **Windows**, **macOS**, and **Linux** operating systems. It is not an family of the text editors are called **CyCode**.
 
+![Screenshot Writepad](.github/wallpaper_writepad.png?raw=true "Screenshot Writepad")
+
 ## Installation
 To install prebuilt Electron binaries, use [`npm`](https://docs.npmjs.com/). The preferred method is to install Electron as a development dependency in your app:
 
