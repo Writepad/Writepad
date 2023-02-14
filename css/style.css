@@ -128,24 +128,22 @@ table {
 }
 
 .cyflex-save {
-    background-color: #000000;
-    border: transparent;
-    color: white;
-    text-align: center;
-    padding: 10px 12px;
-    text-decoration: none;
-    font-size: 15px;
-    font-family: 'Cascadia Code';
+  background-color: #000000;
+  border: transparent;
+  color: white;
+  text-align: center;
+  padding: 10px 12px;
+  text-decoration: none;
+  font-size: 15px;
+  font-family: 'Cascadia Code';
 }
 
-/* Navbar container */
 .navbar {
   overflow: hidden;
   background-color: #333;
   font-family: Arial;
 }
 
-/* Links inside the navbar */
 .navbar a {
   float: left;
   font-size: 16px;
@@ -155,13 +153,11 @@ table {
   text-decoration: none;
 }
 
-/* The dropdown container */
 .dropdown {
   float: left;
   overflow: hidden;
 }
 
-/* Dropdown button */
 .dropdown .dropbtn {
   font-size: 15px;
   border: none;
@@ -169,8 +165,8 @@ table {
   color: white;
   padding: 10px 12px;
   background-color: #eba930;
-  font-family: inherit; /* Important for vertical align on mobile phones */
-  margin: 0; /* Important for vertical align on mobile phones */
+  font-family: inherit;
+  margin: 0;
 }
 
 .dropbtn1 {
@@ -180,16 +176,14 @@ table {
   color: white;
   padding: 10px 12px;
   background-color: black;
-  font-family: inherit; /* Important for vertical align on mobile phones */
-  margin: 0; /* Important for vertical align on mobile phones */
+  font-family: inherit;
+  margin: 0;
 }
 
-/* Add a red background color to navbar links on hover */
 .dropdown:hover .dropbtn {
   background-color: wheat;
 }
 
-/* Dropdown content (hidden by default) */
 .dropdown-content {
   display: none;
   position: absolute;
@@ -221,12 +215,10 @@ table {
   background-color: wheat;
 }
 
-/* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content1 {
   display: block;
 }
 
-/* Links inside the dropdown */
 .dropdown-content .a {
   float: none;
   color: black;
@@ -236,12 +228,10 @@ table {
   text-align: left;
 }
 
-/* Add a grey background color to dropdown links on hover */
 .dropdown-content .a:hover {
   background-color: wheat;
 }
 
-/* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
   display: block;
 }
