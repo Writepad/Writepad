@@ -3,6 +3,7 @@ const path = require('path')
 
 function createWindow () {
   const win = new BrowserWindow({
+    icon: path.join(__dirname, "./assets/writepad.ico"),
     width: 800,
     height: 600,
     webPreferences: {
