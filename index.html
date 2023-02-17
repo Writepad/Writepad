@@ -1,17 +1,17 @@
 <!--
-    Writepad v1.0
+    Writepad v1.0.0-beta2
     Copyright 2023 Cyril John Magayaga
 -->
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="src/css/style.css">
     </head>
     <body>
         <div class="cyflex-biggest">
             <div class="cyflex-menubar">
                 <div class="dropdown">
-                    <button class="dropbtn1"><img class="img2" src="assets/hamburger_menu.svg"></button>
+                    <button class="dropbtn1"><img class="img2" src="src/assets/hamburger_menu.svg"></button>
                     <div class="dropdown-content1">
                         <button class="cyflex-save" id="save-button">Save as Text file (.txt)</button>
                         <br>
@@ -27,12 +27,13 @@
                 </div>
                 <p style="float: right;">v1.0</p>
                 <p style="float: right;" class="display-time" id="p1"></p>
-                <p><img class="img1" src="assets/writepad.svg">Writepad</p>
+                <p><img class="img1" src="src/assets/writepad.svg">Writepad</p>
             </div>
             <textarea class="cyflex-body" placeholder="Write a program..." id="contents"></textarea>        </div>
-        <script type="text/javascript" src="js/editor.js"></script>
-        <script type="text/javascript" src="js/editor1.js"></script>
-        <script type="text/javascript" src="js/editor2.js"></script>
+        <script type="text/javascript" src="src/js/editor.js"></script>
+        <script type="text/javascript" src="src/js/editor1.js"></script>
+        <script type="text/javascript" src="src/js/editor2.js"></script>
+        <script src="src/ts/index.ts"></script>
     </body>
 </html>
 

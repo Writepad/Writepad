@@ -1,17 +1,27 @@
 {
   "name": "writepad",
-  "version": "1.0",
+  "version": "1.0.0-beta2",
   "description": "It is simple text editor, again, and again!",
   "main": "main.js",
   "scripts": {
     "writepad": "electron .",
-    "writepad-install": "electron-packager .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "writepad:install": "electron-packager .",
+    "writepad:web": "parcel index.html --open",
+    "writepad:node-ts": "node src/ts/index.ts",
+    "writepad:test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Cyril John Magayaga",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^23.0.0"
+    "electron": "^23.1.0",
+    "electron-packager": "^17.1.1",
+    "sass": "^1.58.2",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "css": "^3.0.0",
+    "js": "^0.1.0",
+    "parcel-bundler": "^1.12.5"
   }
 }
