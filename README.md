@@ -1,6 +1,6 @@
-# Writepad
-
-**Writepad** is simple text editor created and developed by [Magayaga](https://github.com/Magayaga) with the [Electron Framework](https://github.com/electron/electron) for **Windows**, **macOS**, and **Linux** operating systems. It is not an family of the text editors are called **CyCode**.
+<h1 align="center"> Writepad - Simple Text Editor 📜</h1>
+<p align="center"><b>Writepad</b> is simple text editor created and developed by <a href="https://github.com/Magayaga">Magayaga</a></p>
+<h5 align="center">Available for Linux, macOS and Windows.</h5>
 
 ![Screenshot Writepad](.github/wallpaper_writepad.png?raw=true "Screenshot Writepad")
 
