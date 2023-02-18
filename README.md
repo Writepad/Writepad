@@ -9,6 +9,7 @@ To install prebuilt Electron binaries, use [`npm`](https://docs.npmjs.com/). The
 
 ```
 npm install --save-dev electron
+npm install --save-dev electron-packager
 ```
 
 ## Quick start
