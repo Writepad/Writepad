@@ -6,7 +6,9 @@
 <html>
     <head>
         <!--CSS-->
-        <link rel="stylesheet" href="css/style.css">
+        <title>Writepad</title>
+        <link rel="stylesheet" href="css/styles.css">
+        <meta charset="utf-8"/>
     </head>
     <body>
         <div class="cyflex-biggest">
@@ -24,6 +26,10 @@
                         <br>
                         <button class="cyflex-save" id="reload-button">Reload</button>
                         <br>
+                        <button class="cyflex-save" id="toggle-dark-mode">Toggle Mode</button>
+                        <br>
+                        <button class="cyflex-save" id="reset-to-system">System Theme</button>
+                        <br>
                     </div>
                 </div>
                 <p style="float: right;">v1.0.0-beta3</p>
@@ -36,6 +42,7 @@
         <script type="text/javascript" src="js/editor.js"></script>
         <script type="text/javascript" src="js/file.js"></script>
         <script type="text/javascript" src="js/time.js"></script>
+        <script type="text/javascript" src="../renderer.js"></script>
         <!--TypeScript-->
         <script src="ts/index.ts"></script>
     </body>

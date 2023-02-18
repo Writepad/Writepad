@@ -1,8 +1,9 @@
 <h1 align="center"> Writepad - Simple Text Editor 📜</h1>
 <p align="center"><b>Writepad</b> is simple text editor created and developed by <a href="https://github.com/Magayaga">Magayaga</a></p>
-<h5 align="center">Available for Linux, macOS and Windows.</h5>
 
-![Screenshot Writepad](.github/wallpaper_writepad.png?raw=true "Screenshot Writepad")
+![Screenshot Writepad](.github/wallpaper_writepad2.png?raw=true "Screenshot Writepad")
+
+<h5 align="center">Available for Linux, macOS and Windows.</h5>
 
 ## Installation
 To install prebuilt Electron binaries, use [`npm`](https://docs.npmjs.com/). The preferred method is to install Electron as a development dependency in your app:
