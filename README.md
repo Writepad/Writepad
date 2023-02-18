@@ -21,7 +21,7 @@ python main.py
 ```
 Live preview in **npm**:
 ```python
-npm run writepad
+npm run writepad:app
 ```
 
 ## License & Copyright
