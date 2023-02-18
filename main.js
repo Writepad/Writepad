@@ -13,11 +13,7 @@ function createWindow () {
   // Menubar is hidden
   win.setMenuBarVisibility(false);
   // First HTML
-  win.loadFile('index.html')
-  /**
-   * Second HTML
-   * win.loadFile('src/index.html')
-   */
+  win.loadFile('src/index.html')
 }
 
 app.whenReady().then(() => {
