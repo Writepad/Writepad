@@ -255,6 +255,14 @@
   }
   
   .img2 {
+    height: 0.75%;
+    width: auto;
+    padding-right: 4px;
+    padding-left: 4px;
+    filter: invert(100%);
+  }
+
+  .img3 {
     height: 1%;
     width: auto;
     padding-right: 4px;
