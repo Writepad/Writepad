@@ -1,3 +1,4 @@
+<p align="center"><img src=".github/writepad.svg" alt="Writepad" width="100" height="100"></p>
 <h1 align="center"> Writepad - Simple Text Editor 📜</h1>
 <p align="center"><b>Writepad</b> is simple text editor created and developed by <a href="https://github.com/Magayaga">Magayaga</a></p>
 
