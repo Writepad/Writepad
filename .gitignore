@@ -1,0 +1,5 @@
+# Writepad - It is simple text editor, again, and again!
+
+/node_modules
+/dist
+/.cache
