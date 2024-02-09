@@ -30,4 +30,4 @@ npm run writepad:app
 ## License & Copyright
 Licensed under the [MIT](LICENSE.txt) license.
 
-Copyright ©2023 Cyril John Magayaga. All rights reserved.
+Copyright ©2023-2024 Cyril John Magayaga. All rights reserved.
